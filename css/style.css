@@ -189,6 +189,8 @@ header.scrolled .nav-container {
     display: flex;
     flex-direction: column;
     text-decoration: none;
+    margin-right: 4rem;
+    flex-shrink: 0;
 }
 
 .logo-main {
